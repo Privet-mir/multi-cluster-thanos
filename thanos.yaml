@@ -1,0 +1,5 @@
+type: AZURE
+config:
+  storage_account: 'centralmetricstore'
+  storage_account_key: 'xxxxxxxxxxxxxxxxxxxx'
+  container: 'metricsthanos'
